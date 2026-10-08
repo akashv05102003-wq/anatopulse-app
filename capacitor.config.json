@@ -1,0 +1,6 @@
+{
+  "appId": "com.anatopulse.app",
+  "appName": "ANATOPULSE",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
